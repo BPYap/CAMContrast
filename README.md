@@ -1,3 +1,7 @@
+# CAMContrast
+
+This is the official code repository for the CiBM 2024 paper "[Coarse-to-fine Visual Representation Learning for Medical Images via Class Activation Maps](https://www.sciencedirect.com/science/article/pii/S0010482524002877?dgcid=author#tblA.1)".
+
 ## Environment setup
 
 ```
@@ -33,3 +37,19 @@ python setup.py install
 
 The implementation of contrastive learning loss was adapted from
 the [SupContrast repository](https://github.com/HobbitLong/SupContrast). 
+
+## Citation
+
+```
+@article{YAP2024108203,
+  title = {Coarse-to-fine visual representation learning for medical images via class activation maps},
+  journal = {Computers in Biology and Medicine},
+  volume = {171},
+  pages = {108203},
+  year = {2024},
+  issn = {0010-4825},
+  doi = {https://doi.org/10.1016/j.compbiomed.2024.108203},
+  url = {https://www.sciencedirect.com/science/article/pii/S0010482524002877},
+  author = {Boon Peng Yap and Beng Koon Ng}
+}
+```
