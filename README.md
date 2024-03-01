@@ -1,6 +1,6 @@
 # CAMContrast
 
-This is the official code repository for the CiBM 2024 paper "[Coarse-to-fine Visual Representation Learning for Medical Images via Class Activation Maps](https://www.sciencedirect.com/science/article/pii/S0010482524002877?dgcid=author#tblA.1)".
+This is the official code repository for the CiBM 2024 paper "[Coarse-to-fine Visual Representation Learning for Medical Images via Class Activation Maps](https://authors.elsevier.com/a/1ih2y2OYd7fez)".
 
 ## Environment setup
 
